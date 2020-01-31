@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །ཚད་མའི་མདོ་སྡེ་བདུན་དང་བཅས་པའི་སྤྱི་དོན་རིགས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-01
+  layers:
+  - book_title
+  - author
+  - sabche
+web_metadata:
+  title:
+    en: The Heart of Reason:A General Presentation of Seven Treatises on Valid Cognition
+    bo: ཚད་མའི་མདོ་སྡེ་བདུན་དང་བཅས་པའི་སྤྱི་དོན་རིགས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+      །
+  collection:
+    en: Pema Karpo Series–  Book 1
+    bo: ཀུན་མཁྱེན་གཞུང་འགྲེལ།–  དེབ། ༡
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-PK-01
+  category:
+    en: Valid Cognition
+    bo: ཚད་མ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-01.epub
+  description:
+    en: ''
+    bo: ''
