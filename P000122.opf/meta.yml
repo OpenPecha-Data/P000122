@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000122
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཚད་མའི་མདོ་སྡེ་བདུན་དང་བཅས་པའི་སྤྱི་དོན་རིགས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-01
   layers:
   - book_title
   - author
   - sabche
+  id: KS-PK-01
 web_metadata:
   title:
     en: The Heart of Reason:A General Presentation of Seven Treatises on Valid Cognition
